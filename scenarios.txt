@@ -1,0 +1,110 @@
+Take Breaks
+
+	Scenario - The Workaholic
+		Protagonist:	Suggests breaks,
+		Antagonist;	Let's get this working first, it'll be "quick".
+		Protagonist:	But we've already been working at it for an hour.
+		Antagonist:	Yes, but I know we are really close now.
+		Protagonist:	And if we break we will clear our heads and finish it that much faster when we get back.
+		Antagonist:	But we'll lose focus.
+		Protagonist:	I don't think spinning for an hour is very focused.  We really should break.
+		Antagonist:	Just 5 more minutes.
+	
+Practice Humility
+
+	Scenario - My Way or the Highway
+		Protagonist:	Let's think about it this way for a bit.
+		Antagonist:	That's dumb, you know we will wind up doing it my way.
+		Protagonist:	That's no way to get to the best solution.
+		Antagonist;	Well, if you won't do it my way, I'll find someone to pair with who will.
+		
+	Scenario - My Code is Perfect (Arrogance Out of Pride)
+		Protagonist:	I think I know of a test that will fail.
+		Antagonist:	No way, my code is perfect.
+		Protagonist:	Well let me try anyway.
+		Antagonist:	Humpf.
+		Protagonist:	Cool, I got a red bar.
+		Antagonist:	Must be a faulty test case, I know my code works.
+		
+Be Confident/Be Receptive
+
+	Scenario - Inexperience Breeding Defensiveness (Arrogance Out of Ignorance)
+		Protagonist:	I think we should raise an Exception here.
+		Antagonist:	That's dumb, we should just return Null, let someone else deal with it.
+		Protagonist:	I'm usually in favor of giving information as early and as specific as possible.
+		Antagonist:	Seems like a waste of time to me, just more code to write.
+		Protagonist:	But how many times have you complained about not getting enough information with an error.
+		Antagonist:	Well, yeah, from Java itself, but we aren't writing a language, just a business app.
+		Protagonist:	I don't think that matters, if we can make it easier for someone later we should.
+		Antagonist:	If you insist, but I still think it's a waste of time.
+
+	Scenario - Overly Confident
+		Protagonist:	Let's try using "foo" to solve this.
+		Antagonist:	Hmmm, I don't think that works in Java.
+		Protagonist:	I'm pretty sure I've seen it used before.
+		Antagonist:	I doubt it, I know I've Googled it and it's just not supported.
+		Protagonist:	You must be thinking of "bar", let's just try "foo" and see what happens.
+		Antagonist:	Sigh.  Well, if you really must try, but I know it's a waste of time.
+		
+Communicate
+
+	Scenario - Silent Partner
+		Protagonist:	So what are you trying to do right now?s
+		Antagonist:	"type type type"
+		Protagonist:	Woa!  Back up a second, I'm not following you.
+		Antagonist:	"type type type"
+		Protagonist:	Now I'm really confused, why did you just do that?
+		Antagonist:	"type type type"
+		
+Listen
+
+	Scenario - Jumping to Conclusions
+		Protagonist:	I think we need to create a....
+		Antagonist:	Local, Yeah that's obvious.
+		Protagonist:	Well, actually I was thinking it should be a....
+		Antagonist:	Right, the other one should be a field.
+		Protagonist:	I was still talking about the first one...
+		Antagonist:	What, do you think I'm stupid because I made it a local?
+		
+	Scenario - Assuming You're Understood
+		Protagonist:	Here's a red bar for you.
+		Antagonist:	Got it.  I'll just do this quickly and I am sure you will like the result.
+		Protagonist:	I'm not really following what you are doing.
+		Antagonist:	I'm sure it will be clear when it's done, just wait a few minutes.
+		Protagonist:	Maybe, but it seems like you have some complex logic in your head that you may need to talk me through.
+		Antagonist;	Just wait, I'm sure you will see it.  (pause)  Now - that should make it all clear.
+		Protagonist:	Nope, not really.
+
+Be a Team Player
+
+	Scenario - Condescending Navigator
+	
+		Protagonist:	I really don't understand why I can't get this test passing.
+		Antagonist:	It must be because YOU introduced a bug.
+		Protagonist:	Maybe, but I only added this code here, and none of the previous tests fail.
+		Antagonist:	But YOU have been typing, I am sure MY test is good.
+		Protagonist:	Well, maybe WE messed up in our design thinking.
+		Antagonist:     You mean MY design, can't be, it has to be YOUR code.
+		
+Hone the Balance between Compromise and Standing Firm
+
+	Scenario - Stuck in the Mud
+		Protagonist:	I think we should use an int here.
+		Antagonist:	But we need to keep them in a collection so we will have to have an Object.
+		Protagonist:	OK, then we can go with Integer.
+		Antagonist:	Well, I was thinking of our own object.
+		Protagonist:	That seems like YAGNI to me.  I see the need for Integer over int, but nothing more.
+		Antagonist:	I really don't care, I want to create an object.
+		Protagonist:	But it won't have any more kick than an Integer.
+		Antagonist:	But that's what I thought of and it will be hard for me to conceptualize things if you change it.
+		
+	
+	Scenario - Push Over
+		Protagonist:	So, do you think we should use an int or an Integer.
+		Antagonist:	I don't know, whatever you think.
+		Protagonist:	And maybe we even will need our own object, but that might be YAGNI right now.
+		Antagonist:	You have more experience, you really should just decide.
+		Protagonist:	I guess I'll go with our own object then.
+		Antagonist:	OK.
+		Protagonist:	"codes a bit", That's just not working, it really is YAGNI.
+		Antagonist:	OK.
