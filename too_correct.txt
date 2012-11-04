@@ -1,0 +1,18 @@
+		Protagonist:	Let's think about it this way for a bit.
+		Antagonist:	That's dumb, you know we will wind up doing it my way.
+		Protagonist:	That's no way to get to the best solution.
+		Antagonist;	Well, if you won't do it my way, I'll find someone to pair with who will.
+		
+	Scenario - My Code is Perfect (Arrogance Out of Pride)
+		Protagonist:	I think I know of a test that will fail.
+		Antagonist:	No way, my code is perfect.
+		Protagonist:	Well let me try anyway.
+		Antagonist:	Humpf.
+		Protagonist:	Cool, I got a red bar.
+		Antagonist:	Must be a faulty test case, I know my code works.
+		
+
+		You are very sure that you're correct. they're convinced that they are too. 
+
+
+		

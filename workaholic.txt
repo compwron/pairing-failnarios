@@ -1,0 +1,8 @@
+Protagonist:	Great, this is a commit point. After this, let's take a break, ok? 
+Antagonist;	Let's get this working first. It'll be quick.
+Protagonist:	But we've already been working at it for a while. I think we 
+Antagonist:	Yes, but I know we are really close now.
+Protagonist:	And if we break we will clear our heads and finish it that much faster when we get back.
+Antagonist:	But we'll lose focus.
+Protagonist:	I don't think spinning for this long is very focused.  We really should break.
+Antagonist:	Just 5 more minutes.

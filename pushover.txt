@@ -1,0 +1,9 @@
+	Scenario - Push Over
+		Protagonist:	So, do you think we should use an int or an Integer.
+		Antagonist:	I don't know, whatever you think.
+		Protagonist:	And maybe we even will need our own object, but that might be YAGNI right now.
+		Antagonist:	You have more experience, you really should just decide.
+		Protagonist:	I guess I'll go with our own object then.
+		Antagonist:	OK.
+		Protagonist:	"codes a bit", That's just not working, it really is YAGNI.
+		Antagonist:	OK.

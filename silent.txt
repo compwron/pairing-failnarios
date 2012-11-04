@@ -1,0 +1,11 @@
+
+
+Communicate
+
+	Scenario - Silent Partner
+		Protagonist:	So what are you trying to do right now?s
+		Antagonist:	"type type type"
+		Protagonist:	Woa!  Back up a second, I'm not following you.
+		Antagonist:	"type type type"
+		Protagonist:	Now I'm really confused, why did you just do that?
+		Antagonist:	"type type type"
