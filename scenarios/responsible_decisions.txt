@@ -1,7 +1,7 @@
 1
 Other: Why are we merging this code? We should just overrride their changes. 
 You: I'm sure they made these changes on purpose, we should work on merging with them
-Other: They shouldn't have been changing the code that we we were changing.
+Other: They shouldn't have been changing the code that we were changing.
 You: Let's go talk to them and we can work it out
 
 2

@@ -13,6 +13,6 @@ Phrases to respond to:
 
 "Don't touch anything!" Although this may be said in jest or not. Consider responding with "I think better when I can navigate through the code" or "I'm not sure what I'm looking at, could I click around a little?" In a more joking vein, consider saying "It's okay, we have version control; anything I break, you can just revert." (This last is less appropriate when you have many uncommitted changes.)
 
-"What is that for?" This may not be criticism, but rather honest confusion. While answering, consider continuing to hover your hands over mouse/keyboard to keep 'ownership' as you respond. (Do try to not ignore your pair- even if it is easier to reply after writing some more code, or if you feel that the code will be self-explanatory, it makes your pair feel respected/valued if you answer their questions promptly rather than saying "hang on a minute.")
+"What is that for?" This may not be criticism, but rather honest confusion. While answering, consider continuing to hover your hands over mouse/keyboard to keep 'ownership' as you respond. (Do try to not ignore your pair- even if it is easier to reply after writing some more code, or if you feel that the code will be self-explanatory. It makes your pair feel respected/valued if you answer their questions promptly rather than saying "hang on a minute.")
 
 "Hang on a minute" If your pair says this, try to stay quiet for at least a few seconds. 
