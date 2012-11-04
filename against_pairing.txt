@@ -1,0 +1,21 @@
+1
+You: Ok, so let's do ping-pong pairing. Have you done that before?
+Other: I don't think that pairing is a good fit for this task. I would go faster on my own. 
+
+2
+Other:	This task is too simple to pair on
+You: It's pretty simple but I think we can get some value from pairing. 
+Other: Ok, but you're going to be really bored
+
+3
+Other:  We're just building boilerplate code, we don't need to pair on this. 
+You:  Our team values pairing, and this will be over soon, so I think it's worth it
+Other:	Ugh, this is a waste of developer time
+
+4
+Other: I don't need my hand held for this part. We should stop pairing. 
+You: I'm not implying that you do. 
+Other:	Well, I don't. You don't have to supervise me. 
+You: I'm not supervising. We're pairing. I'm learning what you're doing and we're sharing the work.
+Other:	Uh-huh, sure. 
+

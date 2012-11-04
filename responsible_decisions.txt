@@ -1,0 +1,19 @@
+1
+Other: Why are we merging this code? We should just overrride their changes. 
+You: I'm sure they made these changes on purpose, we should work on merging with them
+Other: They shouldn't have been changing the code that we we were changing.
+You: Let's go talk to them and we can work it out
+
+2
+Other:	We don't need to run the tests before pushing; I'm sure it works
+You: No, we need to run the tests
+Other: They take a long time, though. I'm just going to push
+You: Kick them off and we can take a coffee break
+Other: No, it's pointless. Let's just kick them off. 
+
+3
+Other: Ok, so we need to do this super-fast because it's a prod bug fix (or upcoming deadline, etc)
+You: Well, let's slow down and think about it for a minute. Would it be better to make this change in 'foo'?
+Other:	Maybe, but we need to do this really fast so let's just put it in here.
+You: Are you sure this is a good idea? I think it has performance/security/maintainability implications
+Other: 	No, we need to hurry up

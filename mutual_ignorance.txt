@@ -1,8 +1,5 @@
-Scenario: Neither one knows what to do 
+You: What are you doing?
+Other: Looking for where to implement 'foo'
+You: How do you know where it should go?
+Other: I'm not sure.
 
-You: So... how do we make the controller do that?	
-Other: How can you tell that it's a controller?
-You: Well, I don't think it is, but it's acting like one. 
-Other:	
-You:
-Other: 
