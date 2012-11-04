@@ -1,8 +1,0 @@
-	Scenario - Assuming You're Understood
-		You:	Here's a red bar for you.
-		Other:	Got it.  I'll just do this quickly and I am sure you will like the result.
-		You:	I'm not really following what you are doing.
-		Other:	I'm sure it will be clear when it's done, just wait a few minutes.
-		You:	Maybe, but it seems like you have some complex logic in your head that you may need to talk me through.
-		Other;	Just wait, I'm sure you will see it.  (pause)  Now - that should make it all clear.
-		You:	Nope, not really.

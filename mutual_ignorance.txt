@@ -1,1 +1,8 @@
-Scenario: Neither one knows what to do
+Scenario: Neither one knows what to do 
+
+You: So... how do we make the controller do that?	
+Other: How can you tell that it's a controller?
+You: Well, I don't think it is, but it's acting like one. 
+Other:	
+You:
+Other: 
