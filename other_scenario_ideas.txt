@@ -9,3 +9,7 @@ Pair doesn't understand value of formatting code properly (does this go under re
 Pair is unfamilliar / angry with tools (git, intellij, other)
 
 responsible_decisions.txt (?) pair doesn't like making small / reasonabile - sized commits, wants to lump everything together
+
+Been pairing for too long, should split / unwilling to move off a card
+
+Inconsistent workstation setup. (one pair opens up emacs instead of intellij, etc.)

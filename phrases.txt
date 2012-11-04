@@ -7,7 +7,6 @@ Things the pair-aware pair might say:
 "So, is this a commit point?" This is a gentle way to gather more information about whether your pair thinks that all the tests are in a passing state, while also remining them that it is appropriate to commit as often as possible when the tests are green.
 
 
-
 Phrases to respond to:
 
 "You're talking too much; be quiet, I need to think." Perhaps respond with "I'm sorry, I'll be quieter. I'm trying to understand. Can I ask you more questions when this piece is done?" Often during pairing adjustment, one pair has trouble thinking while narrating or being narrated to. Silence is important. Try hard to give your pair some verbal space when they need it. They will probably stare into the air and frown for a while, then begin typing or talking again. 
