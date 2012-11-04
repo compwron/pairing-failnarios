@@ -3,18 +3,18 @@
 Listen
 
 	Scenario - Jumping to Conclusions
-		Protagonist:	I think we need to create a....
-		Antagonist:	Local, Yeah that's obvious.
-		Protagonist:	Well, actually I was thinking it should be a....
-		Antagonist:	Right, the other one should be a field.
-		Protagonist:	I was still talking about the first one...
-		Antagonist:	What, do you think I'm stupid because I made it a local?
+		You:	I think we need to create a....
+		Other:	Local, Yeah that's obvious.
+		You:	Well, actually I was thinking it should be a....
+		Other:	Right, the other one should be a field.
+		You:	I was still talking about the first one...
+		Other:	What, do you think I'm stupid because I made it a local?
 		
 	Scenario - Assuming You're Understood
-		Protagonist:	Here's a red bar for you.
-		Antagonist:	Got it.  I'll just do this quickly and I am sure you will like the result.
-		Protagonist:	I'm not really following what you are doing.
-		Antagonist:	I'm sure it will be clear when it's done, just wait a few minutes.
-		Protagonist:	Maybe, but it seems like you have some complex logic in your head that you may need to talk me through.
-		Antagonist;	Just wait, I'm sure you will see it.  (pause)  Now - that should make it all clear.
-		Protagonist:	Nope, not really.
+		You:	Here's a red bar for you.
+		Other:	Got it.  I'll just do this quickly and I am sure you will like the result.
+		You:	I'm not really following what you are doing.
+		Other:	I'm sure it will be clear when it's done, just wait a few minutes.
+		You:	Maybe, but it seems like you have some complex logic in your head that you may need to talk me through.
+		Other;	Just wait, I'm sure you will see it.  (pause)  Now - that should make it all clear.
+		You:	Nope, not really.

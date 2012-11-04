@@ -1,6 +1,6 @@
-Protagonist:	I really don't understand why I can't get this test passing.
-Antagonist:	It must be because YOU introduced a bug.
-            Protagonist:	Maybe, but I only added this code here, and none of the previous tests fail.
-            Antagonist:	But YOU have been typing, I am sure MY test is good.
-            Protagonist:	Well, maybe WE messed up in our design thinking.
-            Antagonist:     You mean MY design, can't be, it has to be YOUR code.
+You:	I really don't understand why I can't get this test passing.
+Other:	It must be because YOU introduced a bug.
+            You:	Maybe, but I only added this code here, and none of the previous tests fail.
+            Other:	But YOU have been typing, I am sure MY test is good.
+            You:	Well, maybe WE messed up in our design thinking.
+            Other:     You mean MY design, can't be, it has to be YOUR code.

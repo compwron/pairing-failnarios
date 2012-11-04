@@ -1,6 +1,6 @@
-Protagonist:	
-Antagonist:
-Protagonist:
-Antagonist:	
-Protagonist:
-Antagonist: 
+You:	
+Other:
+You:
+Other:	
+You:
+Other: 

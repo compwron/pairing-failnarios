@@ -1,29 +1,29 @@
 1
-Protagonist:	I think we should raise an exception here.
-Antagonist:	That's dumb, we should just return Null, let someone else deal with it.
-Protagonist:	I'm usually in favor of giving information as early and as specific as possible.
-Antagonist:	Seems like a waste of time to me, just more code to write.
-Protagonist:	But how many times have you complained about not getting enough information with an error.
-Antagonist:	Well, yeah, from Java itself, but we aren't writing a language, just a business app.
-Protagonist:	I don't think that matters, if we can make it easier for someone later we should.
-Antagonist:	If you insist, but I still think it's a waste of time.
+You:	I think we should raise an exception here.
+Other:	That's dumb, we should just return Null, let someone else deal with it.
+You:	I'm usually in favor of giving information as early and as specific as possible.
+Other:	Seems like a waste of time to me, just more code to write.
+You:	But how many times have you complained about not getting enough information with an error.
+Other:	Well, yeah, from Java itself, but we aren't writing a language, just a business app.
+You:	I don't think that matters, if we can make it easier for someone later we should.
+Other:	If you insist, but I still think it's a waste of time.
 
 2
-Protagonist:	Let's try using "foo" to solve this.
-Antagonist:	Hmmm, I don't think that works in Java.
-Protagonist:	I'm pretty sure I've seen it used before.
-Antagonist:	I doubt it, I know I've Googled it and it's just not supported.
-Protagonist:	You must be thinking of "bar", let's just try "foo" and see what happens.
-Antagonist:	Sigh.  Well, if you really must try, but I know it's a waste of time.
+You:	Let's try using "foo" to solve this.
+Other:	Hmmm, I don't think that works in Java.
+You:	I'm pretty sure I've seen it used before.
+Other:	I doubt it, I know I've Googled it and it's just not supported.
+You:	You must be thinking of "bar", let's just try "foo" and see what happens.
+Other:	Sigh.  Well, if you really must try, but I know it's a waste of time.
 
 
 3
-Protagonist: Here, let me write a test- I think there's an edge case left
-Antagonist: No, the code works fine. Let's move on.
-Protagonist: I think that when they're both zero, the function will return the wrong value. (give evidence for your case)
-Antagonist: No, it works fine.
-Protagonist: Here, let me write it
-Antagonist: Fine, but it'll be green
+You: Here, let me write a test- I think there's an edge case left
+Other: No, the code works fine. Let's move on.
+You: I think that when they're both zero, the function will return the wrong value. (give evidence for your case)
+Other: No, it works fine.
+You: Here, let me write it
+Other: Fine, but it'll be green
 
 
 		
