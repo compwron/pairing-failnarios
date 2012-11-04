@@ -1,12 +1,8 @@
-		You:	I think we should use an int here.
-		Other:	But we need to keep them in a collection so we will have to have an Object.
-		You:	Good point. Let's go with Integer, then. 
-		Other:	Well, I was thinking of our own object.
-		You:	That seems like YAGNI to me.  I see the need for Integer over int, but nothing more.
-		Other:	I really don't care, I want to create an object.
-		You:	But what advantage will it give us?
-		Other:	Well, it'll make the code more extensible and easier to understand
-
-
-		
-	
+You:	I think we should use an int here.
+Other:	But we need to keep them in a collection so we will have to have an Object.
+You:	Good point. Let's go with Integer, then. 
+Other:	Well, I was thinking of our own object.
+You:	That seems like YAGNI to me.  I see the need for Integer over int, but nothing more.
+Other:	I really don't care, I want to create an object.
+You:	But what advantage will it give us?
+Other:	Well, it'll make the code more extensible and easier to understand

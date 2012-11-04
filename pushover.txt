@@ -1,9 +1,8 @@
-	Scenario - Push Over
-		You:	So, do you think we should use an int or an Integer.
-		Other:	I don't know, whatever you think.
-		You:	And maybe we even will need our own object, but that might be YAGNI right now.
-		Other:	You have more experience, you really should just decide.
-		You:	I guess I'll go with our own object then.
-		Other:	OK.
-		You:	"codes a bit", That's just not working, it really is YAGNI.
-		Other:	OK.
+You:	So, do you think we should use an int or an Integer.
+Other:	I don't know, whatever you think.
+You:	And maybe we even will need our own object, but that might be YAGNI right now.
+Other:	You have more experience, you really should just decide.
+You:	I guess I'll go with our own object then.
+Other:	OK.
+You:	"codes a bit", That's just not working, it really is YAGNI.
+Other:	OK.

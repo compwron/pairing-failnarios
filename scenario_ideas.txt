@@ -1,0 +1,11 @@
+Noisy pairing environment
+
+Trying to give feedback to pair / pair gives you ridiculous feedback
+
+Pair has body odor, what to do?
+
+Pair doesn't understand value of formatting code properly (does this go under responsible_decisions.txt?)
+
+Pair is unfamilliar / angry with tools (git, intellij, other)
+
+responsible_decisions.txt (?) pair doesn't like making small / reasonabile - sized commits, wants to lump everything together

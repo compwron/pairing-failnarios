@@ -1,18 +1,19 @@
-		You:	Let's think about it this way for a bit.
-		Other:	That's dumb, you know we will wind up doing it my way.
-		You:	That's no way to get to the best solution.
-		Other;	Well, if you won't do it my way, I'll find someone to pair with who will.
+1
+You:	Let's think about it this way for a bit.
+Other:	That's dumb, you know we will wind up doing it my way.
+You:	That's no way to get to the best solution.
+Other:	Well, if you won't do it my way, I'll find someone to pair with who will.
 		
-	Scenario - My Code is Perfect (Arrogance Out of Pride)
-		You:	I think I know of a test that will fail.
-		Other:	No way, my code is perfect.
-		You:	Well let me try anyway.
-		Other:	Humpf.
-		You:	Cool, I got a red bar.
-		Other:	Must be a faulty test case, I know my code works.
-		
+2
+You:	I think I know of a test that will fail.
+Other:	No way, my code is perfect.
+You:	Well let me try anyway.
+Other:	Humpf.
+You:	Cool, I got a red bar.
+Other:	Must be a faulty test case, I know my code works.
 
-		You are very sure that you're correct. they're convinced that they are too. 
+
+You are very sure that you're correct. they're convinced that they are too. 
 
 
 		

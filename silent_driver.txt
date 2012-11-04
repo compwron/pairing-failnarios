@@ -1,0 +1,6 @@
+You:	So what are you trying to do right now?s
+Other:	"type type type"
+You:	Woa!  Back up a second, I'm not following you.
+Other:	"type type type"
+You:	Now I'm really confused, why did you just do that?
+Other:	"type type type"

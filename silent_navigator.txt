@@ -1,0 +1,6 @@
+You: "type type type" Does that make sense? 
+Other: (silent)
+You: Ok... well, I'm going to finish making this test pass, ok?
+Other:	(silent)
+You: "type type type" Ok, done. Do you want to write the next test?
+Other: (silent)
