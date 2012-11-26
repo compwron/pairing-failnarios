@@ -1,6 +1,6 @@
 1
 You:	I think we should raise an exception here.
-Other:	That's dumb, we should just return Null, let someone else deal with it.
+Other:	That's dumb. We should just return null. Let someone else deal with it.
 You:	I'm usually in favor of giving information as early and as specific as possible.
 Other:	Seems like a waste of time to me, just more code to write.
 You:	But how many times have you complained about not getting enough information with an error.

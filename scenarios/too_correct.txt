@@ -13,7 +13,7 @@ You:	Cool, I got a red bar.
 Other:	Must be a faulty test case, I know my code works.
 
 
-You are very sure that you're correct. they're convinced that they are too. 
+You are very sure that you're correct. They're convinced that they are too. 
 
 
 		
