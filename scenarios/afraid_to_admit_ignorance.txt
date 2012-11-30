@@ -1,0 +1,4 @@
+You: Ok, have you used spine.js before?
+Other: I am awesome and know everything. Of course I have. It's dumb and we don't use it.
+You: Ok, well we're using it here in order to (do foo), let's take a look so we can make it (do bar)
+Other: (Doesn't understand) Ok, that makes sense
