@@ -1,0 +1,5 @@
+Knowledge: You have a very thourough grounding in TDD, OO, pairing, and CI. You have only been looking at this large legacy codebase for a week or two.
+
+Enthusiasm: You have high hopes that you can make a big improvement in development speed and developer skill levels in the new team in which you find yourself. 
+
+Worry: You are consciously trying to get your pair to communicate, learn, and teach you (and them) more about the codebase.

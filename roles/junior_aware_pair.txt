@@ -1,0 +1,5 @@
+Knowledge: You are fairly junior and have a moderate grounding in TDD, OO, pairing, and CI. You have only been looking at this large legacy codebase for a week or two.
+
+Enthusiasm: You think that things are going pretty well and code is getting written. You are happy to be learning a lot.
+
+Worry: You are trying to be a good pair but your pair seems uncommunicative, busy, and occasionally annoyed with you- but you're not sure of any of this or how to fix it. 
