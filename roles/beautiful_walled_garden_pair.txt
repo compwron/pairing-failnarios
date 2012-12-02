@@ -1,0 +1,5 @@
+Knowledge: You are maintaining a codebase which requires high conceptual cohesion. Very few other people understand it, and many people have trouble understanding it.
+
+Goal: Make the codebase as good as possible- which includes keeping the ignorant from making bugs in it.
+
+Worry: Others will introduce bugs and ineffeciencies because of their lack of understanding. 

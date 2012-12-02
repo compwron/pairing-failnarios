@@ -1,16 +1,16 @@
 1. 
-You: Ok, have you used spine.js before?
+You: Ok, have you used Mockito before?
 Other: I am awesome and know everything. Of course I have. It's dumb and we don't use it.
-You: Ok, well we're using it here in order to (do foo), let's take a look so we can make it (do bar)
-Other: (Doesn't understand) Ok, that makes sense
+You: Ok, well we're using it here in order to mock Foo. Let's take a look so we can make it mock Bar here.
+Other: (Doesn't understand) Ok, that makes sense.
+You: Okay, do you want to drive?
+Other: You can start.
+You: Okay, so I'm mocking the first method on Bar... let's run it... ok, it's failing because we need to mock this method on Bar. Do you want to do that part?
+Other: Ok... *copy-pastes previous line, pauses*
+You: Can I help?
+Other: No, I'm fine. 
 
 2. 
-You: It's okay to admit that you don't know things, you know	
-Other: Around here, that gets you fired. 
-You: Er.
-Other: So, let's just pretend that everything was my idea	
-
-3. 
 Other: We shouldn't use Mockito; it doesn't work.
 You: Yes it does! See, right here! (Better response: "Well, on line 40 it looks like we're using it to mock Foo, and I think that's a parallel case to what we want to achieve")
 Other: It doesn't work when you use it (shows wrong way to use it)	

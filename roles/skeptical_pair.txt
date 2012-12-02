@@ -1,5 +1,4 @@
 Knowledge: You have been working at Company for a several years and you have deep expertise in this codebase.
 
-Enthusiasm: You really want to just get the work done like you always do, because it is important work and there is a lot of it to do. 
-
+Goal: You really want to just get the work done like you always do, because it is important work and there is a lot of it to do. 
 Worry: This change will slow you down and make you miss your deadlines. There is a lot of change all at once, and you are skeptical that any of it will be useful. You honestly believe that pairing is a waste of developer time and also you think that having someone looking over your shoulder all the time is an insult to your skills.
