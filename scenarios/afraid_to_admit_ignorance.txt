@@ -1,3 +1,5 @@
+Context: You are experienced with Mockito. The Other is reluctant to admit ignorance because they believe that it makes them look weak/ignorant.
+
 1. 
 You: Ok, have you used Mockito before?
 Other: I am awesome and know everything. Of course I have. It's dumb and we don't use it.
@@ -9,19 +11,10 @@ You: Okay, so I'm mocking the first method on Bar... let's run it... ok, it's fa
 Other: Ok... *copy-pastes previous line, pauses*
 You: Can I help?
 Other: No, I'm fine. 
+You: *waits*
+Other: So, what do I do here?
+You: Let's mock this method, so we'll write a when() statement with Foo.method in it.
+Other: Ok... *waits*
+You: Here, let me show you. *takes keyboard*
+Other: *takes back keyboard* No, let me do it. *pauses*
 
-2. 
-Other: We shouldn't use Mockito; it doesn't work.
-You: Yes it does! See, right here! (Better response: "Well, on line 40 it looks like we're using it to mock Foo, and I think that's a parallel case to what we want to achieve")
-Other: It doesn't work when you use it (shows wrong way to use it)	
-You: Okay, I see what you're doing. Mockito is order sensitive, so you have to put the when() before the call to the method that uses the mock
-Other: Uh-huh 
-...
-You: Okay, so let's use Mockito like we did before	
-Other: (Makes same mistake again)
-You: I think this is another order-based problem, does that make sense?
-Other: Of course. (Does something wrong)
-You: We need to put the when() before the usage of the method
-Other: Okay... (does nothing)
-
-Other is obviously having problems with the concept, and seems reluctant to say so. What do you do?
