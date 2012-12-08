@@ -19,10 +19,10 @@ Other:	Sigh.  Well, if you really must try, but I know it's a waste of time.
 3
 You: Here, let me write a test- I think there's an edge case left
 Other: No, the code works fine. Let's move on.
-You: I think that when they're both zero, the function will return the wrong value. (i.e. you are giving evidence for your case)
+You: I think that when they're both zero, the function will return the wrong value. 
 Other: No, it works fine.
 You: Here, let me write it
-Other: Fine, but it'll be green
+Other: Fine, but it'll be green. 
 
 
 		
