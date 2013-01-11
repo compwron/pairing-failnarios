@@ -1,6 +1,6 @@
 1 keyboard for a pair
 
-Foreigner, can't understand accent
+Foreigner, can't understand accent (either direction)
 
 Noisy pairing environment
 
@@ -17,3 +17,5 @@ responsible_decisions.txt (?) pair doesn't like making small / reasonabile - siz
 Been pairing for too long, should split / unwilling to move off a card
 
 Inconsistent workstation setup. (one pair opens up emacs instead of intellij, etc.)
+
+new role: aware pair who had been in a devolving client situation for a while; both pairs are familliar with codebase, tools. Corporate environment has an unproductive incentive structure, etc?

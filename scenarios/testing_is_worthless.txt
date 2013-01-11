@@ -1,0 +1,12 @@
+Context: You are doing "characterization testing" where you write the tests after the newly-written code is done, but before checking in.
+
+You: Okay, let's write some tests for what we think this should do!
+Other: I think that this is a waste of time. They take so much time to write, and they only test tiny pieces of the functionality.
+You: Well, they'll get faster to write as we become more used to writing them and as we refactor the code to bemore testable.
+Other:	But they don't even use real data! You're passing in everything as null and zero!
+You: Yes, we're testing the simplest possible case first. Then we can test specific cases, like what happens when Foo is "potato"
+Other: This is so useless. We should just write the next piece of code. 
+You: But you don't even have a valid Vegetable class passed in, it's just empty!	
+Other: This is taking too long, we have to get the code written. I don't care what happens when Foo doesn't have meaningful data in it.
+You: We're testing that the method, given known inputs, returns known outputs. It's good to get down to the granular layer because if Foo breaks and Bar doesn't, a test that tests them both won't tell you which one broke.
+Other:	This is nonsense, we need to move on.

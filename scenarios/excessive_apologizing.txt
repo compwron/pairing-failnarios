@@ -6,3 +6,5 @@ You: It's ok. Let's write the next test
 Other:	Sorry, I'm- sorry. How do you do that? Sorry.
 You: It's okay. Let me show you.
 Other: Sorry.
+You: *type type* Okay, so what I'm doing here is using an automated refactoring to extract a method... 
+Other: Sorry, what is that?

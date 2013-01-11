@@ -1,3 +1,5 @@
+Context: You are very sure that you're correct. They're convinced that they are too. 
+
 1
 You:	Let's think about it this way for a bit.
 Other:	That's dumb, you know we will wind up doing it my way.
@@ -13,7 +15,7 @@ You:	Cool, I got a red bar.
 Other:	Must be a faulty test case, I know my code works.
 
 
-You are very sure that you're correct. They're convinced that they are too. 
+
 
 
 		

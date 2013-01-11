@@ -1,4 +1,4 @@
-Knowledge: You have a very thourough grounding in TDD, OO, pairing, and CI. You have only been looking at this large legacy codebase for a week or two but you have seen many similar things before and it is making a lot of sense.
+Knowledge: You have a very thourough grounding in TDD, OO, pairing, and CI. You have only been looking at this large legacy codebase for a week or two but you have seen many similar things before and it is making a lot of sense. You are aware of good pairing practices and are actively trying to practice them.
 
 Goal: You have high hopes that you can make a big improvement in development speed and developer skill levels in the new team in which you find yourself. 
 

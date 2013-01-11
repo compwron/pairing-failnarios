@@ -10,6 +10,15 @@ You: No, we need to run the tests
 Other: They take a long time, though. I'm just going to push
 You: Kick them off and we can take a coffee break
 Other: No, it's pointless. Let's just kick them off. 
+You: But we don't want to inconvenience the other devs if it goes red	
+Other: It'll be fine. *pushes the code*
+Choose your own adventure:
+
+2a
+Other: The build went green! I told you so!
+
+2b
+Other: What do you mean, it's red??? Did YOU make it do this?
 
 3
 Other: Ok, so we need to do this super-fast because it's a prod bug fix (or upcoming deadline, etc)
