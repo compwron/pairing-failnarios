@@ -1,3 +1,5 @@
+Context: The Other is inexperienced but still could make some good contributions if they could be drawn out. try to draw them out. 
+
 You: Hmm, I think you made a typo
 Other: I'm really sorry
 You: It's ok. Let's write the next test

@@ -1,3 +1,5 @@
+Context: Other is focussed on getting the work done and, although willing to teach, is not willing to slow down. 
+
 You: Ok, I saw you do this a minute ago. Could you guide me through it this time?
 Other: Ok. *type type type*
 You: Ah, thanks. I meant, could you verbally walk me through it while I type?

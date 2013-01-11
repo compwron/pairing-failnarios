@@ -1,3 +1,5 @@
+Context: You are both relatively unfammiliar with the codebase and trying to implement functionality while pairing. 
+
 You: What are you doing?
 Other: Looking for where to implement 'foo'
 You: How do you know where it should go?

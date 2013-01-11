@@ -1,3 +1,5 @@
+Context: The challenging pair is very sure that their answer is correct, but it is not. 
+
 1
 You:	I think we should raise an exception here.
 Other:	That's dumb. We should just return null. Let someone else deal with it.
