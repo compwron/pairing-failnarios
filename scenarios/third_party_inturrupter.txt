@@ -1,0 +1,16 @@
+Context: Two people are pairing, and a person comes by who needs to talk to only one of the pairing participants%s
+
+You: Okay, so it's your turn to write a test
+Other: Cool, so we want Foo to do Bar... *typing*
+You: Uh, I think someone is here to see you?
+Third: Hi, um, I just have a question, it'll only take a second...
+Other:	Ok, I have to deal with this. Can you finish the test?
+You: Yeah, no problem
+Other: Ok. So, Third, is this about Initiative A?
+You:	*writing code*
+Third: So, if stream one of initiative A is set for next year...
+Other:	Then we have a release cycle mismatch with initiative B, I see... okay, let's draw a diagram real quick
+Third: And ManagerDude says that we have to have it in by the release before, and I don't see how that could work
+Other: Hmm, so we'll need toggles...
+You: Guys, this is really distracting, how long will it take?
+Other: Er, you should probably take a coffee break. Sorry. 
