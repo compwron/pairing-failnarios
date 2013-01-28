@@ -19,3 +19,6 @@ Been pairing for too long, should split / unwilling to move off a card
 Inconsistent workstation setup. (one pair opens up emacs instead of intellij, etc.)
 
 new role: aware pair who had been in a devolving client situation for a while; both pairs are familliar with codebase, tools. Corporate environment has an unproductive incentive structure, etc?
+
+How to articulate smells in pairing:
+	- refactoring, why? 

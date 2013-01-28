@@ -1,0 +1,14 @@
+Context: One pair leaves and comes back
+
+You:	Hey, welcome back!
+Other: Thanks
+You: So, I've been implementing the addition of the new field to the object and its mapper...
+Other:	Just keep going, I'll catch up.
+You: Uh okay. So I wrote some unit tests about it...
+Other: I can see that.
+You: "I'm worried that when one pair goes away and the other keeps working, we are skipping the reconnection of context when one of us comes back, and ending up with a knowledge disconnect"
+Other: I can catch up, it's not a problem
+You: I agree that you can catch up quickly but I think it's most valuable if we're both completely familliar with all the work on the card	
+Other: That takes too long...
+You: Also when I need to leave and then come back, I feel behind for a while. It's good that you keep going when I'm away- I don't want to be a blocker- but I think we'd have more value in the long term if we took the time to reconnect.
+Other:	No, that's a waste of time. You can review the code without me; I don't want to have to do everything twice or have to wait for you. 

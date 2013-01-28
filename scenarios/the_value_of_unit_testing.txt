@@ -1,3 +1,6 @@
+Context: One pair doesn't seem convinced of the value of unit testing
+
+1. 
 Context: You are doing "characterization testing" where you write the tests after the newly-written code is done, but before checking in.
 
 You: Okay, let's write some tests for what we think this should do!
@@ -10,3 +13,14 @@ You: But you don't even have a valid Vegetable class passed in, it's just empty!
 Other: This is taking too long, we have to get the code written. I don't care what happens when Foo doesn't have meaningful data in it.
 You: We're testing that the method, given known inputs, returns known outputs. It's good to get down to the granular layer because if Foo breaks and Bar doesn't, a test that tests them both won't tell you which one broke.
 Other:	This is nonsense, we need to move on.
+
+2. 
+Other: So, why are unit tests valuable? I get that you like them, but why?
+You: Because they characterize the behavior of the code! And also they help me be sure that I haven't broken anything, so I have more confidence to change things. 
+Other:	That's too high-level. Why are we spending time on this right NOW?
+You: Because at the time that you write the code is the best time to test, because that's when you're most familliar with it
+Other: What are we getting out of the tests right now?
+You: It's more of a long-term gain, where slowly writing code becomes faster and less worrisome- there's less fear in the codebase over time.
+Other:	Uh-huh. So can we skip them?
+You: No, they're really useful for helping us design good code, because writing the test first makes us write more modular code, and modular code is easier to understand and maintain
+Other:	I don'w know, I think it's easier when all the code is in one place. 
