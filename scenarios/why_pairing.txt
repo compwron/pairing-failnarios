@@ -1,0 +1,37 @@
+Context: You are pairing with a client dev who has not paired very much before and is not convinced of the value. The Other is a little uncomfortable with sharing a computer, genuinely unconvinced of the value of pairing, and not experienced with pairing.
+
+1
+You: Ok, so let's do ping-pong pairing. Have you done that before?
+Other: I don't think that pairing is a good fit for this task. I would go faster on my own. 
+You: I think this is an ok task to pair on... we're just going to write a few tests and fix a bug. 
+Other:	Yeah, it's just a bug. This task is too simple to pair on.
+You: It's pretty simple but I think we can get some value from pairing. Bugs can be tricky.
+Other: Ok, but you're going to be really bored. This is super-easy. Really, totally boring.
+You: That's okay. Our team values pairing, and this will be over soon, so I think it's worth it
+Other:	Ugh, this is a waste of developer time.
+You: Here, let me navigate to the class that you said is causing the problem.
+Other: I don't need my hand held for this part. We should stop pairing. 
+You: I'm not implying that you do. 
+Other:	Well, I don't. You don't have to supervise me. 
+You: I'm not supervising. We're pairing. I'm learning what you're doing and we're sharing the work.
+Other:	Uh-huh, sure. 
+
+2
+Context: You're trying to explain the value of pairing without being asked
+
+You:	Huh, that makes more sense now. Thank you. This is one of the reasons I like pairing- it's faster to learn from you than to figure it out on my own, and I find out about all the little gotchas!
+Other: I don't know all that much about this section of the code. You could have figured it out.
+You: I agree, I could have; but this is so effective. Knowledge transfer is great. I feel much more comfortable working on this area of the code now.
+Other:	That's good, because I have to go to a four-hour meeting right after lunch.
+You: Wow, that's a long meeting. Since we're working on your computer, lets make sure to push before you have to go, so I have access to the code. 
+
+3
+You: What does this variable represent?
+Other: I'm not sure. It doesn't matter to us.
+You:	Okay, I guess if we don't need it. Who do you think might know?
+Other: I'm not sure. This section of the codebase hasn't really been modified in a few years, and it's not written very clearly.
+You: I agree... this kind of code is one of the reasons I like pairing so much; I find that the observer effect makes it easier to write clearer code, because I'm thinking about how the code looks to other people while I write, rather than just writing what makes sense in my mind at the time.
+Other:	Well, as long as it makes sense to you it's okay.
+You: I guess, but I find that it's a lot like trying to read my own handwriting... after a few days, it's harder to remember what I was doing. But if I was trying to write neatly because I wasn't just writing a note to myself, it makes more sense for longer.
+Other: I guess. If nothing else, you're learning to read my "handwriting"!
+

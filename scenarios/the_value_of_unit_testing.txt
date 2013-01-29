@@ -24,3 +24,4 @@ You: It's more of a long-term gain, where slowly writing code becomes faster and
 Other:	Uh-huh. So can we skip them?
 You: No, they're really useful for helping us design good code, because writing the test first makes us write more modular code, and modular code is easier to understand and maintain
 Other:	I don'w know, I think it's easier when all the code is in one place. 
+
