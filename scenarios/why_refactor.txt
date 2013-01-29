@@ -1,0 +1,31 @@
+Context: You are trying to clean up the code while working on a card
+
+1.
+You:	Okay, let's refactor this piece of code.
+Other: No, we really need to get work done; the iteration ends soon. 
+You: I think the refactoring will make the work go faster overall because it will be simpler to see what we are doing once the code is cleaner.
+Other:	The code is plenty clean, I know exactly what line to put our stuff at, let's just get it done.
+You: I know that it's tempting to mark the story completed, but I'd like to make it easier for the next person to touch this code by just renaming a few variables to be more descriptive.
+Other: Fine, if it'll be fast.
+You:	Great, let's do it. And if we have time, we could break out the creation of Foo into its own method so that we can see the meaning of the for loop for easily.
+Other: Are you trying to sneak in more refactoring?
+You: Yes, because I think honestly believe that refactoring will make it easier for the team to succeed in meeting our deadlines.
+Other:	You know, I really doubt that. 
+You: How come?
+Other: Because it's a waste of time.
+
+2. 
+You:	Okay, let's refactor this piece of code.
+Other: Fine, if it'll be fast. Why do you keep wanting to refactor?
+You: Because I believe that it is beneficial to the team, both now and later. 
+Other:	Ugh, but it just rearranges the code and makes it harder to find. 
+You: Er, I think it makes the code easier to read, once you get used to everything not being in one large method.
+Other: But if everything's here, then I know where it is and it's easy to find!
+You:	But if the methods are descriptively named then you know what is going on and don't have to hunt it down line by line
+Other: But what if the methods hide important things away from me?
+You: Well, I guess if you really care about how Foo is merged with Bar, you go into the mergeFooWithBar method, and if you care about a different part of the code, then you trust that you don't have to go into mergeFooWithBar.
+Other:	I think that most refactoring just makes the code longer while making it harder to read.
+You: I know that it's a different style of programming and I'm not sure it'll fit the style in this codebase, but let's try it here and see how it looks.
+Other: Ugh, fine, but this method that you extracted needs a better name.
+You:	I totally agree. What should we call it?
+
