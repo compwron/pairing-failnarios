@@ -30,3 +30,13 @@ You: I know you have to go, so I promise to push before I leave so you can work 
 Other: Okay, thanks. 
 You: I'll leave you a super-informative commit message so that what I was doing makes sense even if I leave something strange or half-finished in the code.
 Other:	Okay, see you tomorrow.
+
+
+5
+You: What time are you heading out today? I don't want to make you late to anything. 
+Other: It'll be okay, I'll just leave when I have to. 
+You: Okay, but since we're working on your machine, I'd like to make sure that we get the code pushed at a convenient time for you, so I can work on it tomorrow when you're out.
+Other:	Well, I'll only be at the dentist part of the day; I can just work on it and push it from home.
+You: Yeah totally, I know that you're doing a half-day from home. But I want access to the code too, so I can make sure that I understand everything that we did.
+Other: Okay, lets push now. I'll be online tomorrow if you have any questions. 
+You: Sounds good.
