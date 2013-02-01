@@ -28,3 +28,5 @@ Scenario with two aware pairs, and the imperfections which can be found in that 
 - 2 aware-pairs: A and B. A is distracted (by phone or other), B doesn't notice that A is distracted. (real life, recent - requested)
 
 Several variations on how to tell your pair that what they're doing is not okay: be able to express what the smell is, don't just smell it. (requested)
+
+Talking someone up (and accidentally someone else down)

@@ -1,0 +1,33 @@
+1
+Context: You don't want to present a divided front on important technical issues
+
+You:	So, we should structure this test suite around central command and control structure.
+Other: Absolutely not, it's very important that we modularize it so we can run distributed.
+You: I don't think we need to run distributed.
+Other:	I think we do, because Person said Thing.
+You: No, that doesn't make sense given this other fact.
+Other: We really need to do it this way.
+You:	But that will take so long to change, and we'll need to.
+Other: Argh. I think people are looking at us, and we're getting loud. Let's find a conference room.
+
+2
+You:	So, we should use a modular approach here.
+Other: But Dude from your company said that we should use command and control.
+You: Oh, did he?
+Other:	Yep. Strongly. He said it was because we need to run distributed.
+You: Hmm, okay. Other Dude from my company said modular at the meeting, though...
+Other: We can do it your way, I'm sure he's wrong.
+You:	No, I'm sure he has a good reason. I need to know what it is.
+Other: So you're wrong about us doing it modularly?
+You: Er, I think I need to go talk to him and figure out the reasons behind the structure.
+
+3
+Context: Two consultants from the same company are working together, but have a differing opinion.
+
+You: So we need to write a unit test here	
+Other: No, this is too simple to test, let's just move on.
+You: Er, I really think we should test it.
+Other:	I know we have different backgrounds in dev, and I really think we should move on.
+You: I think it's important that we agree that testing is important.
+Other: I think you're following rules instead of principles. "Test everything" isn't always true.
+You:	Um.
