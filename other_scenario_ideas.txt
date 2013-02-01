@@ -1,4 +1,4 @@
-1 keyboard for a pair
+1 keyboard for a pair (or other variation on inadequate physical setup)
 
 Foreigner, can't understand accent (either direction)
 
@@ -20,5 +20,11 @@ Inconsistent workstation setup. (one pair opens up emacs instead of intellij, et
 
 new role: aware pair who had been in a devolving client situation for a while; both pairs are familliar with codebase, tools. Corporate environment has an unproductive incentive structure, etc?
 
-How to articulate smells in pairing:
-	- refactoring, why? 
+Several variations on how to articulate smells in pairing
+
+pair keeps physically leaving without telling you where they're going or when they'll be back (real life, recent - requested)
+
+Scenario with two aware pairs, and the imperfections which can be found in that setup.
+- 2 aware-pairs: A and B. A is distracted (by phone or other), B doesn't notice that A is distracted. (real life, recent - requested)
+
+Several variations on how to tell your pair that what they're doing is not okay: be able to express what the smell is, don't just smell it. (requested)

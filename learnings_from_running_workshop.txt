@@ -1,4 +1,4 @@
-Longer scenarios are easier to play
+Longer scenarios are easier to play (in general, 3-4 lines is too short; 15 is too long. Line length also mattters: 4 lines of multiple-sentence scenarios can be 'just right')
 
 Discussion probably needs to be timeboxed
 
@@ -7,3 +7,11 @@ More context for scenarios is good
 Most of these scenarios involve experienced-and-unwilling-to-change devs: expand beyond that. 
 
 Fishbowl format is great: trade out one person every scenario
+
+Some scenarios are too long or have too complex language
+
+Perhaps discuss "pairing guidelines" or "desired outcomes of pairing" when the primary audience is JCs who have not been pairing much on a client-facing project yet.
+
+Have participants write down what they think are the important points / advice / lessons on post-it notes during the session, put on board during/after. 
+
+Running a mini-retro at the end is very valuable
