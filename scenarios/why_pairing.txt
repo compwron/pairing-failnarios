@@ -17,7 +17,7 @@ You: I'm not supervising. We're pairing. I'm learning what you're doing and we'r
 Other:	Uh-huh, sure. 
 
 2
-Context: You're trying to explain the value of pairing without being asked
+Context: You're trying to nonconfrontationally explain the value of pairing 
 
 You:	Huh, that makes more sense now. Thank you. This is one of the reasons I like pairing- it's faster to learn from you than to figure it out on my own, and I find out about all the little gotchas!
 Other: I don't know all that much about this section of the code. You could have figured it out.

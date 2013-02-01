@@ -1,0 +1,26 @@
+1
+Context: Your pair doesn't seem to be worried about possibly checking in on top of a red build
+
+Other: We could commit now, actually. It's almost lunchtime. 
+You: Yeah, absolutely. Let's get ready on our end and then when the build goes green we'll push. 
+Other:	Well, we still have to add Foo to Bar, but then we can check in.
+You: Sounds good. Maybe we should wait to push until after lunch, since we have to wait until the build goes green in order to go.
+Other: No we don't, it's just the build. If it's red over lunch, no one will mind.
+You:	Er, I really don't like leaving the build red for any period of time, because then no one can push. You can go if you want, but I need to stay and fix it.
+Other: I can stay, I guess.
+
+2
+Context: your pair wants to push on a red build
+
+Other: Ok we're done with this section; lets push.
+You: We can't push, the build is red.
+Other:	But the build is red because of flaky tests; let's just push and it will kick off again andprobably go green.
+You: I don't want our commit to get mixed up with the commit that made the build red, even if it's just a flaky test problem. 
+Other: Their problems shouldn't affect us; we should just push. It's in an entirely different part of the codebase.
+You: I agree, it's not good that this test is red and preventing us from pushing. Let's go check with the people whose names are on the commit, and see when they think it'll be green.
+Other: What are we supposed to do while we wait?
+You: We can use git to make a local commit, and work on the next piece of work. Or we could refactor our code. 
+Other:	That is such a waste of time.
+You: I agree it's not what I would prefer to be doing, but it's important to complicate the situation when something is broken, because that frequently makes the build harder to fix if there are more than one possible cause for the breakage.
+Other: But it's such a simple breakage, we won't be complicating anything.
+You: We know it's simple but they might not; we should go make sure that they know that. I don't want to confuse anybody by pushing.

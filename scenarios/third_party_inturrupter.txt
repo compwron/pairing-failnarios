@@ -10,7 +10,7 @@ Other: Ok. So, Third, is this about Initiative A?
 You:	*writing code*
 Third: So, if stream one of initiative A is set for next year...
 Other:	Then we have a release cycle mismatch with initiative B, I see... okay, let's draw a diagram real quick
-Third: And ManagerDude says that we have to have it in by the release before, and I don't see how that could work
+Third: And Mr. Manager says that we have to have it in by the release before, and I don't see how that could work
 Other: Hmm, so we'll need toggles...
 You: Guys, this is really distracting, how long will it take?
-Other: Er, you should probably take a coffee break. Sorry. 
+Other: You should take a coffee break.
