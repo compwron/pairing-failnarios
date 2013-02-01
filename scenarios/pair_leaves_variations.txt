@@ -1,4 +1,5 @@
-Context: One pair leaves and comes back
+1
+Context: One pair leaves and comes back, but doesn't seem to want to ccatch up on knowledge. 
 
 You:	Hey, welcome back!
 Other: Thanks
@@ -12,3 +13,27 @@ You: I agree that you can catch up quickly but I think it's most valuable if we'
 Other: That takes too long...
 You: Also when I need to leave and then come back, I feel behind for a while. It's good that you keep going when I'm away- I don't want to be a blocker- but I think we'd have more value in the long term if we took the time to reconnect.
 Other:	No, that's a waste of time. You can review the code without me; I don't want to have to do everything twice or have to wait for you. 
+
+2
+Context: Your pair keeps physically leaving without telling you where they're going or when they'll be back
+
+You:	
+Other:
+You:
+Other:	
+You:
+Other: 
+You:	
+Other:
+You:
+Other:	
+You:
+Other: 
+
+3
+Context: Pair leaves for the day, in a hurry. You are left with a task you are not comfortable performing.
+
+Other: Okay, I really need to go. Can you commit this code that we've been working on?
+You: Uh, I guess- what about file Foo?
+Other:	Uh... probably? Use your judegement. Gotta go. bye!
+You: Okay, seeya tomorrow! ... Okay, I can do this. I wish we had the capability for local commits... Oh man, what if it goes red and I can't fix it? Argh, I really don't think this is a good idea.
