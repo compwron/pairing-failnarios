@@ -13,3 +13,17 @@ You: Ok... well, I'm going to finish making this test pass, ok?
 Other:	(silent)
 You: "type type type" Ok, done. Do you want to write the next test?
 Other: (silent)
+
+3
+Context: The Other does not want to pair and is not communicating
+
+You:	Okay, so what are you doing here?
+Other: Coding. *type type*
+You: So I know that we're trying to add a field to our XML interpreter- how does this relate to that?
+Other:	We're adding the field.
+You: Uh-huh. *pause* Is this the XML parser?
+Other: No.
+You:	So I see that this is important, but I'm not sure how it connects to the parser.
+Other: It calls it.
+You: This calls the parser?
+Other:	*type type type*

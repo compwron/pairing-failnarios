@@ -1,0 +1,113 @@
+What is it to pair? 
+Make this an ideaboardz? http://ideaboardz.com/for/pairing%20workshop/7048
+Ideal outcomes of pairing:
+In my opinion, there are several components: 
+- physical setup: two monitors, keyboards, mice. Monitors mirrored. Rotate (frequency for maximum benefit is debatable, but definitely rotate!)
+- outcomes in code: observer effect code (write it to be understood because you are writing mindful of the person reading/understanding beside you, guided by their opinions), more refactored- more motivation (pride of 'doing it right' increases while watched? + encouragement to do difficult things instead of using workarounds), learning to code better by seeing the other person's tricks, faster onboarding (especially with rotation), become a better dev (by learning from more people), establish new conventions, code reflects that someone in the pairing learned something.
+- outcomes in people: better work/live balance (take care of your pair, "oh hey, lunchtime, "let's not make you late to leave work for home"), stronger immune systems (you will ALL get the plague :/), day gopes fast when you have a good pairing going (not bored etc), feeling like I/we are moving inthe right direction, not "where am I going / how did I/we get here?", Learning, feeling challenged (by thinking of / keeping in mind the perspective of your pair)
+- outcomes in team: better team interations, communication, trust, fewer distractions from dev (faster regaining of context after inturruption), reducing the thing where you: work by yourself, go down the wrong rabbit hole, and have to rewind and figure out where you were.
+
+Pairing guidelines (collected)
+(check email for opinions from Jason, dishman)
+Help your pair learn to dev better
+Don't abandon, injure, mortify your pair
+Listen to your pair (do not discount what they say)
+Write code that you both understand
+Encourage each other to write better code
+Teach pair to pair
+Teach pair to write better, cleaner code
+Try to make sure that breaks are taken
+Try to help them have a work-life balance
+Adapting to the other person's style
+Ping pong - not nececcarily TDD, but a rhythm
+Pausing to talk about what you want to do, and get on the same page
+Compromise: some pairs I've seen argue all day instead of writing code
+Patience when they're wrong or going slow
+Explain what you're doing
+make sure that the pair knows where you are physically
+Respectful
+1 person looks at forest, 1 person looks at trees
+work together
+compromise
+recognize when you have different opinions, be willing to try it their way.
+
+
+
+
+This file stolen from material by LAURA PATERSON
+Guidelines for
+Pairing
+Working together
+Pair programming, or pairing, is the practice of two developers working together at the same work station.
+The two developers collectively own the development effort; working as a single unit to write code, consider design, and liaise with BAs, QAs and other Dev Pairs.
+Why Pair?
+One of the primary advantages of pairing is reducing waste through errors. When pairing, there are two sets of eyes on the code being written, catching errors that may otherwise go on to become bugs.
+So two developers may be each right 95% of the time. If they code separately, the code base will be subject to a 5% error rate. However when pairing this becomes a likely rate of 5% of 5% - an error rate of only 0.25%.
+Driving and Navigating
+There are two roles in a pair - the driver and the navigator. The driver is responsible for coding the current task, while the navigator takes a big picture view, considering what the next step is, what additional tests may be required, or what useful refactoring can be achieved.
+It is important to maintain both roles when pairing. If there is no navigator, the pair is likely to become embroiled in the details of the code. With two navigators the pair may become philosophical in their discussion - or miss coding bugs as they go.
+Role Switching
+The roles of driver/navigator should be shared between a pair. There are no rules as to how often this should happen.
+As navigator, if you find yourself telling your partner what keys to press, it’s a good sign that it’s time to switch roles.
+If you are the driver, watch out for the navigator becoming bored or distracted.
+Pair Switching
+It is important for pairs to switch partners frequently. This facilitates knowledge sharing and encourages the propagation of new ideas.
+It is often useful to switch pairing partners if a pair becomes stuck - providing a new set of eyes and a fresh perspective on the problem.
+Pairs should be allowed to self-form fluidly. Techniques such as pairing ladders can help ensure pairs don’t become stale.
+Remote Pairing
+Although it may seem counter- intuitive, remote pairing can often be a way to bring distributed teams closer together. When distributed team members pair on a story, they are forced to communicate, and the commonality of their goal is clearly focused.
+Ensure remote pairs have the right tools for the job - desktop sharing, headsets and video conferencing will enable the proper jelling of the remote pair.
+Intentional Practice
+Is can be difficult for developers to make the transition from traditional solo development to pair programming. They may feel they are more productive alone, or that they are being monitored by their pair.
+This is usually short-lived, and most developers prefer pairing to solo development once they get used to it.
+To facilitate this accustomisation, it helps to utilise some pairing exercises - or intentional practice. This includes Ping Pong Pairing to achieve cadence, the 10 Second Countdown to prevent detail-driven navigation, or Single Keyboard pairing to minimise navigator keyboard grab!
+
+
+----
+
+
+Psychological effects of bad pairing patterns
+This question is Not Answered.
+ https://my.thoughtworks.com/thread/2598
+
+Rachel 
+ 
+I believe there must be some psychological effects to being on the receiving end of a keyboard hog, or being belittled with statements such as "Don't you understand that?!?" rather than a more encouraging approach, but I am wondering if there is any research out there to back this up. I'm not a psychologist but I am sure I have read some studies on the effects of this type of behaviour and wondered if anyone could point me in the right direction?
+ 
+Many thanks in advance!
+
+
+
+
+
+https://my.thoughtworks.com/docs/DOC-1613
+Pair Programming is where two programmers develop code side by side  at the same computer. We promote pair programming as we believe it  promotes:
+fewer defects
+higher quality code
+improves communication
+facilitates knowledge transfer
+enhances expertise and learning
+Implementation
+When a developer volunteers for a task, he or she asks someone else to help them out. The rule is that, if asked, you say yes.
+The two become a pair and help each other with their respective tasks.
+Every line of code is written by the pair.
+At a single workstation.
+You should be able to move the keyboard without moving chairs.
+Both parties are intimately involved in writing the code.       
+The person at the keyboard is concentrating on the low levels.
+The observing partner is thinking more strategically, looking up API calls, considering design, etc.
+Hints, tips and possible pitfalls
+The pair should switch off regularly so that they can change focus and keep fresh
+The protocol for switching is:       
+"Let me drive", or.
+"Why don't you drive."
+If the non-typing party keeps touching the keyboard it's a good indication of a desire to drive.
+Artefacts / Worked Examples
+The definitive and original paper of Pair Programming is Costs and Benefits of Pair Programminng by Cockburn & Williams
+
+http://c2.com/cgi/wiki?HowToPissOffYourPair
+
+
+https://my.thoughtworks.com/people/dabel/blog/2012/01/17/a-brief-exploring-pairing-deck-for-developers
+
+https://my.thoughtworks.com/docs/DOC-7619

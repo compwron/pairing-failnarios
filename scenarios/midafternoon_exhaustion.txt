@@ -1,0 +1,11 @@
+Context: It's after lunch and a wave of exhaustion hits you. 
+
+You: *feeling groggy* What did you say again? 
+Other: That Foo inherits from Bar. 
+You: Okay. 
+Other:	So, now I'm going to write the method on Foo... are you okay?
+You: Hmm, I think I'll take a bio break for a minute
+Other: Okay, seeya
+You:	*takes a walk* comes back
+Other: Welcome back. I've been changing Foo..
+You: Interesting, how so?
