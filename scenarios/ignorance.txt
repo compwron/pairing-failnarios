@@ -2,13 +2,15 @@ Context: You are experienced with Mockito. The Other is reluctant to admit ignor
 
 1. 
 You: Ok, have you used Mockito before?
-Other: I am awesome and know everything. Of course I have. It's dumb and we don't use it.
-You: Ok, well we're using it here in order to mock Foo. Let's take a look so we can make it mock Bar here.
-Other: (Doesn't understand) Ok, that makes sense.
-You: Okay, do you want to drive?
-Other: You can start.
+Other: I have, but it's not useful in this codebase. 
+You: Well, it's used in a few places in this codebase and I want to use it to mock Foo here.
+Other: What is this? Did you put that in there? 
+You: Not me personally, but it's used in a few places in the codebase and I think it would help us test Foo. Do you want to write this test?
+Other: I could.
+You: Okay, all yours.
+Other: ...You can start.
 You: Okay, so I'm mocking the first method on Bar... let's run it... ok, it's failing because we need to mock this method on Bar. Do you want to do that part?
-Other: Ok... *copy-pastes previous line, pauses*
+Other: Ok... *pauses*
 You: Can I help?
 Other: No, I'm fine. 
 You: *waits*
