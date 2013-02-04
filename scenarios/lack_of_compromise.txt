@@ -13,9 +13,4 @@ You:	Well let me try anyway.
 Other:	Humpf.
 You:	Cool, I got a red bar.
 Other:	Must be a faulty test case, I know my code works.
-
-
-
-
-
 		

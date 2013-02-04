@@ -16,7 +16,7 @@ Other: Maybe I'll just push it commented out.
 You:	Okay, sounds like a plan. Don't forget to leave me a commit message!
 
 3
-You: Okay, so we need to add Foo to Bar, but only if this one attribute of Foo is greater than this other orrtibute of Foo. I think. Is that what it looks like to you?
+You: Okay, so we need to add Foo to Bar, but only if this one attribute of Foo is greater than this other attribute of Foo. I think. Is that what it looks like to you?
 Other:	Kind of. I think it's not about the relationship of the attributes, but the overall value of the attributes. 
 You: Hmm, that makes sense but I don't see it in the code yet. Could you point? 
 Other: It's around here somewhere; give me a minute.
@@ -26,7 +26,7 @@ Other:	They're over here in the calculation about Bar.
 4. 
 Context: Trying to encourage good commit messages, frequent pushes, and not postponing working on code until both pairs are present.
 
-You: I know you have to go, so I promise to push before I leave so you can work on it before I get in tomorrow morning, because I know you'e in early.
+You: I know you have to go, so I promise to push before I leave so you can work on it before I get in tomorrow morning, because I know you're in early.
 Other: Okay, thanks. 
 You: I'll leave you a super-informative commit message so that what I was doing makes sense even if I leave something strange or half-finished in the code.
 Other:	Okay, see you tomorrow.
