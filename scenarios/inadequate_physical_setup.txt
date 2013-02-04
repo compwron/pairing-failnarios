@@ -1,0 +1,39 @@
+1
+Context: There is only one keyboard for the two of you
+
+You:	Okay, so I just finished writing the test. All yours. *pushes keyboard towards pair*
+Other: Do we have something I can wipe down this keyboard with? It's oily.
+You: Er, here have some kleenex and hand sanitizer.
+Other: Thanks. I just feel weird about sharing MY keyboard.
+
+2
+Context: Only one keyboard and mouse
+
+You: So, it's right over there in Foo *points at screen*	
+Other: Over here?
+You: No, the method below it.
+Other:	Over here?
+You: No, a little up. Can I use the keyboard?
+Other: Sure. 
+You: *takes keyboard* Over here
+Other: Oh, okay. Here, give that back.
+You: I could do the next part...
+Other:	No, I have somethind else in mind. 
+
+3
+Context: One pair has leg room. The other is sitting against a small cabinet.
+
+You: Can you scoot over so I can have some leg room?
+Other: There's not really anywhere to go. 
+You: Okay. Maybe I'll stand for a while. Or we could switch chairs every hour or something?
+Other:	No, this is my desk, I don't want to switch.
+
+4
+Context: There's only one screen
+
+You: I can't see, can you increase the font? 
+Other: Not really, I don't know how. 
+You: This is pretty difficult to see and I want to be able to keep up with you, so let's take a minute to look at it. 
+Other:	Ugh, I'm not sure it's possible. And then there's less code on the screen.
+You: I'll try to clean my glasses some more but let's just go to the Preferences menu and look for it.
+Other: How about I can just tell you what's going on instead.

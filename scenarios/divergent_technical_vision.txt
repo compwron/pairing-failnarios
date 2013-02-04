@@ -1,6 +1,0 @@
-Context: You are both experienced developers who happen to have diverging opinions about how to implement a piece of functionality. 
-
-You:	This method is doing two things; let's split it out into two methods before we extend this functionality. 
-Other: No, all this functionality belongs together, we need to break it out into an object. 
-You: We could do that... I think that making it into methods would be cleaner here, though.
-Other:	No, it really needs to be an object 
