@@ -11,11 +11,11 @@ You:	I don't think that matters, if we can make it easier for someone later we s
 Other:	If you insist, but I still think it's a waste of time.
 
 2
-You:	Let's try using "foo" to solve this.
+You:	Let's try using Foo to solve this.
 Other:	Hmmm, I don't think that works in Java.
 You:	I think I've seen it used before.
 Other:	I doubt it, I know I've Googled it and it's just not supported.
-You:	You must be thinking of "bar", let's just try "foo" and see what happens.
+You:	You must be thinking of Bar. Let's just try Foo and see what happens.
 Other:	Sigh.  Well, if you really must try, but I know it's a waste of time.
 
 3
@@ -25,6 +25,3 @@ You: I think that when they're both zero, the function will return the wrong val
 Other: No, it works fine.
 You: Here, let me write it
 Other: Fine, but it'll be green. 
-
-
-		

@@ -1,4 +1,4 @@
-Context: You are pairing with the client, trying to fix a bug. The Other is convinced that their code is very good, that you are ignorant. They may feel threatened by your presenece; maybe they think that you being here is evidence that someone thinks that they can't do their job. 
+Context: You are pairing with the client, trying to fix a bug. The Other is convinced that their code is very good, that you are ignorant. They may feel threatened by your presence; maybe they think that you being here is evidence that someone thinks that they can't do their job. 
 
 You:	I really don't understand why I can't get this test passing.
 Other:	It must be because YOU introduced a bug.       
@@ -11,3 +11,4 @@ Other:	No, it's YOUR error, YOU find it. I'm glad you realize that YOU're wrong.
 You:	Aw come on, help me find the error. It looks like it's being caused by a null pointer in Foo... what does Foo do?
 Other:	Foo does Bar, but that's MY code... the error must be in YOUR code.
 You:	Can you navigate us to Foo, so I can look at it and learn more about how the code works?
+
