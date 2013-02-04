@@ -1,7 +1,10 @@
-Context: You are both relatively unfammiliar with the codebase and trying to implement functionality while pairing. 
+Context: You are both relatively unfamiliar with the codebase and trying to implement functionality while pairing. 
 
 You: What are you doing?
-Other: Looking for where to implement 'foo'
+Other: Looking for where to implement Foo's service call.
 You: How do you know where it should go?
 Other: I don't. Do you?
-You: Nope, no idea. I agree, lets go look for where (thing does bar), because that's parallel functionality to foo and maybe will give us an idea of where to put it.
+You: No. I agree, lets go look for where Bar hits the service. Maybe that will give us an idea for where to put Foo.
+Other: What service does it hit?
+You: Hopefully the code will clarify that in Bar.
+
