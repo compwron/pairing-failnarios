@@ -1,4 +1,4 @@
-Context: Two people are pairing, and a person comes by who needs to talk to only one of the pairing participants%s
+Context: Two people are pairing, and a person comes by who needs to talk to only one of the pairing participants
 
 You: Okay, so it's your turn to write a test
 Other: Cool, so we want Foo to do Bar... *typing*

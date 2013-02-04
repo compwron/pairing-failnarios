@@ -17,7 +17,7 @@ You: I'm not supervising. We're pairing. I'm learning what you're doing and we'r
 Other:	Uh-huh, sure. 
 
 2
-Context: You're trying to nonconfrontationally explain the value of pairing 
+Context: You're trying to non-confrontationally explain the value of pairing 
 
 You:	Huh, that makes more sense now. Thank you. This is one of the reasons I like pairing- it's faster to learn from you than to figure it out on my own, and I find out about all the little gotchas!
 Other: I don't know all that much about this section of the code. You could have figured it out.
@@ -34,4 +34,3 @@ You: I agree... this kind of code is one of the reasons I like pairing so much; 
 Other:	Well, as long as it makes sense to you it's okay.
 You: I guess, but I find that it's a lot like trying to read my own handwriting... after a few days, it's harder to remember what I was doing. But if I was trying to write neatly because I wasn't just writing a note to myself, it makes more sense for longer.
 Other: I guess. If nothing else, you're learning to read my "handwriting"!
-

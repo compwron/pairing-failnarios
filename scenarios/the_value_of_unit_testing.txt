@@ -5,7 +5,7 @@ Context: You are doing "characterization testing" where you write the tests afte
 
 You: Okay, let's write some tests for what we think this should do!
 Other: I think that this is a waste of time. They take so much time to write, and they only test tiny pieces of the functionality.
-You: Well, they'll get faster to write as we become more used to writing them and as we refactor the code to bemore testable.
+You: Well, they'll get faster to write as we become more used to writing them and as we refactor the code to be more testable.
 Other:	But they don't even use real data! You're passing in everything as null and zero!
 You: Yes, we're testing the simplest possible case first. Then we can test specific cases, like what happens when Foo is "potato"
 Other: This is so useless. We should just write the next piece of code. 
@@ -20,10 +20,11 @@ Context: You are trying to explain why unit tests are useful
 Other: So, why are unit tests valuable? I get that you like them, but why?
 You: Because they characterize the behavior of the code! And also they help me be sure that I haven't broken anything, so I have more confidence to change things. 
 Other:	That's too high-level. Why are we spending time on this right NOW?
-You: Because at the time that you write the code is the best time to test, because that's when you're most familliar with it
+You: Because at the time that you write the code is the best time to test, because that's when you're most familiar with it
 Other: What are we getting out of the tests right now?
 You: It's more of a long-term gain, where slowly writing code becomes faster and less worrisome- there's less fear in the codebase over time.
 Other:	Uh-huh. So can we skip them?
 You: No, they're really useful for helping us design good code, because writing the test first makes us write more modular code, and modular code is easier to understand and maintain
-Other:	I don'w know, I think it's easier when all the code is in one place. 
+Other:	I don't know, I think it's easier when all the code is in one place. 
+
 
