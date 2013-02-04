@@ -21,7 +21,7 @@ Other: *takes back keyboard* No, let me do it. *pauses*
 2
 Context: You're not sure what the Other is doing and are worried about seeming incompetent / inexperienced
 
-You: So, I know that we're working on card 42, but is this realted to that?
+You: So, I know that we're working on card 42, but is this related to that?
 Other: Yes.
 You: Uh, what do you consider the next step with the card?
 Other:	I think we should add Foo to the mapper. Or... maybe we should add the columns to the database first. What do you think?
@@ -29,7 +29,7 @@ You: Uh. *pause* Either sounds good?
 Other: Uh-huh.
 
 3
-Context: You are worried about being percieved as ignorant
+Context: You are worried about being perceived as ignorant
 
 Other: Do you understand this? 
 You: Er. Well, I know that the database layer goes through Foo, and that we're changing it.
@@ -38,14 +38,14 @@ You: Probably not. Can you tell me how it works?
 Other: Okay, so we start in the controller...
 
 4
-Context: The Other seems unwilling to expose their ignorance, in an area you are unfamilliar with
+Context: The Other seems unwilling to expose their ignorance, in an area you are unfamiliar with
 
 Other: So then Foo magically authenticates the user.
 You: How does the magic work?
 Other:	By magic. It's complicated, we don't need to discuss it.
 You: We can put it off for later, but I really want to know how all the pieces work.
-Other: Ugh, fine. So, Foo inherits frombar, which has the auth method.
-You:	But how does the auth method work?
+Other: Ugh, fine. So, Foo inherits from Bar, which has the Auth method.
+You:	But how does the Auth method work?
 Other: Magic. I don't really know. No one really knows.
 You: Maybe we could figure it out, and then show it to the team after standup sometime?
 Other:	Well, someone probably knows. 
@@ -67,3 +67,4 @@ You: So it works because Foo picks up the global state here?
 Other: No, it comes in from the properties file.
 You: Oops. I was assuming global state. I think we need to do some rewriting.
 Other:	Argh, I was gone for one day and you've done it completely wrong. 
+
