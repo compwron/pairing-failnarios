@@ -1,7 +1,7 @@
 1
 Context: One pair leaves and comes back, but doesn't seem to want to catch up on knowledge. 
 
-You:	Hey, welcome back!
+You: Hey, welcome back!
 Other: Thanks
 You: So, I've been implementing the addition of the new field to the object and its mapper...
 Other:	Just keep going, I'll catch up.
@@ -17,13 +17,13 @@ Other:	No, that's a waste of time. You can review the code without me; I don't w
 2
 Context: Your pair keeps physically leaving without telling you where they're going or when they'll be back
 
-You:	Where did you go?
+You: Where did you go?
 Other: I was getting lunch.
 You: At 3:30pm?
 Other:	Yes. 
 You: Okay. Uh next time, please let me know when you're going, and when you're coming back.
 Other: Uh-huh.
-You:	I'm going to the bathroom, see you in a minute.
+You: I'm going to the bathroom, see you in a minute.
 Other: Okay.
 You: *comes back* Where's my pair?
 Other:	*comes back in half an hour* Hi

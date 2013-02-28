@@ -1,13 +1,13 @@
 Context: You want to gently introduce concepts without pursuing them at the moment, so that a deeper discussion later will be more successful. It is just after standup and you've just started pairing for the day.
 
 1 
-You:	Okay, so I'm going to be getting lunch around 12:15. But we can stop before then; I know you take lunch earlier.
+You: Okay, so I'm going to be getting lunch around 12:15. But we can stop before then; I know you take lunch earlier.
 Other: Oh no, it's no trouble, I can eat a little late today; I know that Mr. Manager really wants us to pair. 
 You: Okay, I'm fine either way. I just don't want my pair to go hungry! Hungry pairs are less productive... So, about this code.
-Other:	Right, we were just adding a setter for Foo on Bar.
+Other: Right, we were just adding a setter for Foo on Bar.
 
 2 
-You:	Tomorrow I'll be getting in a little late; feel free to start without me. I don't want to hold up the pair.
+You: Tomorrow I'll be getting in a little late; feel free to start without me. I don't want to hold up the pair.
 Other: I get in early but I actually have a 10am meeting.... maybe we should just not start work on this card until afterwards. I can do something else for a while.
 You: No, I know it's important to get this card done. Definitely work on it, just push your progress before you head to the meeting so I can keep working while you're out. 
 Other:	I don't know if it'll be in a pushable state...
@@ -21,7 +21,7 @@ Other:	Kind of. I think it's not about the relationship of the attributes, but t
 You: Hmm, that makes sense but I don't see it in the code yet. Could you point? 
 Other: It's around here somewhere; give me a minute.
 You: Oh man, someone just broke the build... it's a good thing that we're not at a commit point, or we'd have to wait to check in! I hope they get it fixed soon. So, about this code... have you found the attributes?
-Other:	They're over here in the calculation about Bar.
+Other: They're over here in the calculation about Bar.
 
 4. 
 Context: Trying to encourage good commit messages, frequent pushes, and not postponing working on code until both pairs are present.

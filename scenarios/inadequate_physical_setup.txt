@@ -1,7 +1,7 @@
 1
 Context: There is only one keyboard for the two of you
 
-You:	Okay, so I just finished writing the test. All yours. *pushes keyboard towards pair*
+You: Okay, so I just finished writing the test. All yours. *pushes keyboard towards pair*
 Other: Do we have something I can wipe down this keyboard with? It's oily.
 You: Er, here have some kleenex and hand sanitizer.
 Other: Thanks. I just feel weird about sharing MY keyboard.

@@ -1,10 +1,10 @@
 Context: You are trying to point something in the code out to your pair.
 
-You:	Okay, so right over here... *points to your screen*
+You: Okay, so right over here... *points to your screen*
 Other: *leans over to see* ...Where?
 You: *points to their screen* Uh, over there...
 Other:	...I don't see yet
 You: *uses mouse to point* Rr, over here
 Other: Hmm, I see. On line 42?
-You:	Yes, exactly!
+You: Yes, exactly!
 
