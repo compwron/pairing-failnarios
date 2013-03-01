@@ -1,0 +1,10 @@
+Context: You are remote pairing with someone in a different timezone.
+
+You: Thanks for picking up my Skype call. So, yesterday I worked on Foo
+Other: You mean, last night? And why Foo?
+You: Yep, your last night. Foo because it's part of our card. Uh... I need to get lunch soon.
+Other: Ugh, I'm ready for a productive morning of dev. 
+You: Okay, let's work on Foo for an hour or two.
+Other: Let me turn on screensharing. What file are you in?
+You: Let me show you. 
+Other: The screen is lagging...
