@@ -26,3 +26,9 @@ Scenario with two aware pairs, and the imperfections which can be found in that 
 Several variations on how to tell your pair that what they're doing is not okay: be able to express what the smell is, don't just smell it. (requested)
 
 Talking someone up (and accidentally someone else down)
+
+remote pairing, timezones, transition, talk more
+
+the only jc, difficult to ask quetions of experts
+
+"after it's done, you'll know"

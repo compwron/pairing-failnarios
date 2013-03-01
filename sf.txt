@@ -1,0 +1,8 @@
+remote
+guide me
+ignorance 2, 3, 5, 6
+consultants_disagree_on_client_site
+mumbling
+too_far_ahead
+pushing on red build
+pair leaves 3
