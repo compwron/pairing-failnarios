@@ -1,0 +1,10 @@
+Context: Your pair is an experienced dev and can accomplish cards, but is not interested in pairing or writing tests.
+
+You: Okay, do you think we should write a test for this?
+Other: If you want to. 
+You: What do you think the test should test?
+Other: Meh.
+You: *type type* Okay, so the test is written. Do you want to implement the functionality?
+Other: Whatever, you can do it.
+You: I know you can write this code... what's wrong?
+Other: I'm just not interested in your methodology.
