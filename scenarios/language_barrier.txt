@@ -1,0 +1,21 @@
+Context: You are working with a client dev who appears to agree with what you're saying but you believe does not understand what you are saying and is therefore doing something else / taking a different approach
+
+1
+You: Let's do Foo!
+Other: Sounds good.
+You: Do you want to start?
+Other: Sure. *types, does Bar instead of Foo*
+You: Uh... is this Foo?
+Other: Yes. 
+
+2
+You: Let's do Foo!
+Other: Ok... 
+You: Do you want to drive?
+Other:	You can drive. 
+You: Ok. *types* Does that make sense? We're doing Bar so that we can do Foo
+Other: Uh-huh. 
+You: Ok, do you want to drive now?
+Other: Sure. *types, does not do Foo*
+You: Can you narrate what you're doing?
+Other: Uh...

@@ -1,6 +1,5 @@
 Scenarios for a developer pairing workshop. 
 
-
 Instructions:
 Read the exercise. 
 What should you say next? 

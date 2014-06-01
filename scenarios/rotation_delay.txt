@@ -1,0 +1,20 @@
+Context: On your team, sometimes pairs do not rotate as often as you feel that they should, and you are worried that silos of knowledge are building (and possibly some pairs are getting quietly sick of each other)
+
+1
+You: Let's rotate pairs today
+Other: We're almost done. We'll rotate after lunch. 
+You: Ok
+(after lunch)
+You: It's after lunch, let's rotate pairs
+Other: We're almost done, we'll do it tomorrow morning.
+You: We don't need to be done with a card in order to rotate pairs
+Other: Let's just get this finished. I don't want to break our flow. 
+
+2
+You: Let's rotate pairs today
+Other: Well, all the other pairs are in the middle of something. I don't want to break their flow.
+You: I'm sure they'll be okay with it. Pair switching is good.
+Other: Let's just pick up another card and we can switch when someone else reaches a good point to switch at.
+You: Let's ask them if anyone wants to switch,
+Other: No one said in standup that they wanted to switch
+You: But I'm sure they'd be willing if we asked. 
