@@ -18,7 +18,7 @@ Other: Sure.
 You: *takes keyboard* Over here
 Other: Oh, okay. Here, give that back.
 You: I could do the next part...
-Other:	No, I have somethind else in mind. 
+Other:	No, I have something else in mind. 
 
 3
 Context: One pair has leg room. The other is sitting against a small cabinet.
