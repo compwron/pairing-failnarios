@@ -20,3 +20,8 @@ These workshop materials are intended to create good discussions, not to recomme
 The newer scenarios primarily discuss the situation of pairing with a person who is not as strong at doing or valuing pairing in order to primarily accomplish story points rather than refactoring or training.
 
 There is a section of "pairing guidelines" which tries to capture the outcomes of brainstorming sessions on this topic.
+
+## For TWers:
+
+https://thoughtworks.jiveon.com/docs/DOC-16502
+
