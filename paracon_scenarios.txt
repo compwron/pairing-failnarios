@@ -1,9 +1,15 @@
+excessive_apologizing
 guide_me (amended for full-remote)
+language_barrier
+little_pairing_responsibilities
 mutual_ignorance
+silent
 silent_pair
 technical_disagreement (but make it say Ruby)
 technical_disagreement.txt
+the_most_overbearing_one_wins
 the_most_overbearing_one_wins.txt
+the_value_of_unit_testing
 the_value_of_unit_testing (but shorten the scenarios / tune it for PH)
 too_far_ahead.txt
 why_refactor
