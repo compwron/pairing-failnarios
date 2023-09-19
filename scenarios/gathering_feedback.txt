@@ -1,0 +1,11 @@
+Context: You just finished an afternoon of pairing with a teammate.
+
+You: Okay, this is looking pretty good, maybe just have to test this out in the deployed environment?
+Other: Yeah I think you are right, we can sign off now, I can handle that in the morning.
+You: Awesome, thank you!
+Other: No problem at all, team work makes the dream work ;)
+You: Oh, before I forget, would you mind giving me some feedback on our session?
+Other: Totally, I actually should probably get some too huh?
+You: Yeah! I have this form, but if you prefer we can do it verbally sometime tomorrow?
+Other: Mmmm, I think I prefer the form, here's mine.
+You: Cool! I will fill this out right now!

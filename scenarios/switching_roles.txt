@@ -1,0 +1,9 @@
+Context: You have been pairing with a teammate you pair with all the time, they have been driving while you navigate for about 20 minutes.
+
+You: I just dropped a link in our chat that has the library documentation.
+Other: Oh nice, thank you... Ah I see we just need just need use this special hook and that gives us access to all the form's state!
+You: Yeah! I love it when libraries are well documented like this one.
+Other: Ugh me too, do you want to drive for a bit? Feel like I have been typing for a while.
+You: Oh yeah totally, let's hook it up!
+Other: Hahaha, I see what you did there.
+You: Okay... can you see my screen?

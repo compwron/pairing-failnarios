@@ -1,0 +1,12 @@
+Context: You have just joined a scheduled pairing session with someone you don't pair with often.
+
+You: So... I have a story that I am currently working on
+Other: Cool! Me too.
+You: Oh nice, did you want to start on yours then?
+Other: Sure, I'll just share my screen.
+You: I can see it.
+Other: Cool, so I am just working TDDing this async job at the moment, it needs grab a bunch of orders and send some reminder emails.
+You: Oh fun, do you want to try doing some ping pong?
+Other: Uhhh, I was hoping we could code.
+You: Ohhh yeah me too, I meant do you want to try to write a test, and then I'll try to implement it?
+Other:  Ah. I see, sure that sounds fun!

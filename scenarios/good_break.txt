@@ -1,0 +1,11 @@
+Context: You have been pairing together for almost 40 minutes, you have written and tested a couple different functions.
+
+You: Nice, I really like how this class shaping up.
+Other: Me, too! We're almost done with this story, next I think we need handle a couple edge cases...
+You: Oh really, which ones?
+Other: Well definitely duplicates, let's start there.
+You: Okay, umm so duplicates, do we want to validate that on the frontend...
+Other: Yeah, I think so, so basically I'm thinking this regex { types furiously }
+You: Actually, before we get going, should we take a quick break? I could use some water and little stretch.
+Other: Ahhhh yes totally lets do that! See you back here at quarter past?
+You: Sounds good, see you then!
